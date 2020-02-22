@@ -4,6 +4,8 @@
 #include <Kompass.h>
 
 #define CTRL5 0x24
+
+
 #define ADDRESS1 0x1D
 #define TEMP_OUT_L 0x05
 #define TEMP_OUT_H 0x06
